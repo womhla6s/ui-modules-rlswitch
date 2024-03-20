@@ -1,0 +1,28 @@
+{
+  "name": "@womhla6s/ui-modules-rlswitch",
+  "version": "1.0.0",
+  "description": "ui-modules-cli on frontend relbas",
+  "main": "rlswitch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/womhla6s/ui-modules-rlswitch.git"
+  },
+  "author": "womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/womhla6s/ui-modules-rlswitch/issues"
+  },
+  "homepage": "https://github.com/womhla6s/ui-modules-rlswitch#readme",
+  "dependencies": {
+    "@womhla6s/ui-modules-cli": "^1.0.0"
+  }
+}
