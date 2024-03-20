@@ -17,12 +17,12 @@
     "url": "https://github.com/womhla6s/ui-modules-rlswitch.git"
   },
   "author": "womhla6s",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/womhla6s/ui-modules-rlswitch/issues"
   },
   "homepage": "https://github.com/womhla6s/ui-modules-rlswitch#readme",
   "dependencies": {
-    "@womhla6s/ui-modules-cli": "^1.0.0"
+    "ui-modules-cli": "^1.0.1"
   }
 }
